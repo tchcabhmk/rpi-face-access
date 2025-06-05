@@ -52,19 +52,21 @@ python main.py
 
 📦 requirements.txt (RPi)
 
+
 face_recognition
 opencv-python
 gpiozero
 pickle-mixin
+\
+
 
 📷 דוגמה להרצה
-
 python main.py
+
+
 אם זוהתה פנים מוכרת: תודפס הודעה וייפתח המנעול.
 
 ✍️ קרדיטים
 הפרויקט פותח על ידי אביב גרינברג במסגרת פרויקט אישי לשילוב בין AI, חומרה וזיהוי פנים.
 
-yaml
-Copy
-Edit
+
