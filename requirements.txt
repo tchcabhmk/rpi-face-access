@@ -1,5 +1,14 @@
-torch>=1.13
+# --- Core ---
+torch==2.2.2
+torchvision==0.17.2
+numpy==1.24.4
 opencv-python
 matplotlib
-numpy
-PyYAML
+pandas
+pyyaml
+requests
+seaborn
+tqdm
+
+# --- YOLOv5 & related ---
+ultralytics==8.3.150
